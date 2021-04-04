@@ -3,7 +3,7 @@ import Nav from "./components/Nav";
 import HomePage from "./components/HomePage";
 import Gallery from "./components/Gallery";
 import ContactForm from "./components/Contact";
-import HomePage from "./components/HomePage";
+
 
 function App() {
   const [categories] = useState([

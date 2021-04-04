@@ -10,10 +10,10 @@ function ContactForm() {
   });
 
   const [errorMessage, setErrorMessage] = useState("");
-  const { name, email, message
+  const { name, email
   
   
-  dfs
+  // dfs
 } = formState;
 
   const handleSubmit = (e) => {
