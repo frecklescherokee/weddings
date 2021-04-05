@@ -10,7 +10,15 @@ function ContactForm() {
   });
 
   const [errorMessage, setErrorMessage] = useState("");
+<<<<<<< HEAD:client/src/pages/GuestPortal.js
   const { name, email } = formState;
+=======
+  const { name, email
+  
+  
+  // dfs
+} = formState;
+>>>>>>> 42c9a1dd4dfb3ffbb8be308a60fed37c8786e0bb:client/src/components/Contact/index.js
 
   const handleSubmit = (e) => {
     e.preventDefault();
